@@ -25,4 +25,26 @@ Quality assurance is integrated into development through automated testing, CI p
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
 
+## Templates
+
+- [Change Request Template](templates/change-request-template.md) - Document and track change requests for production systems
+- [Stakeholder Engagement Plan](templates/stakeholder-engagement-plan.md) - Systematically identify and manage stakeholders
+
+## Checklists
+
+- [Quality Assurance Checklist](checklists/quality-assurance-checklist.md) - Ensure consistent quality verification throughout the project lifecycle
+
+---
+
+## Recent Enhancements
+
+The templates and checklists listed above were added to address gaps identified in [Issue #4](https://github.com/mgslalom/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4). These enhancements improve project management processes by:
+
+- **Expanding Role Definitions:** Added four new personas (Project Sponsor, Stakeholder Liaison, Quality Assurance Lead, Change Manager) to the [Roles & Personas](octoacme-roles-and-personas.md) document with clear responsibilities, RACI-style interactions, and acceptance criteria alignment
+- **Quality Assurance:** Introduced a comprehensive QA checklist covering entry criteria, review steps, test coverage expectations, sign-off criteria, and handoff steps for release
+- **Change Management:** Provided a structured change request template with fields for impact assessment, priority, approvers, rollback plans, and communication plans
+- **Stakeholder Engagement:** Created a stakeholder engagement plan template with stakeholder mapping, communication cadence, channels, feedback loops, and escalation paths
+
+These additions ensure clearer accountability, improved governance, and more systematic stakeholder management across OctoAcme projects.
+
 If you need changes to this README or to add missing links, please comment on this pull request or update the docs directly.
